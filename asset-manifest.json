@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Munch-Mate-Frontend-Project-/static/css/main.03e59bcb.css",
-    "main.js": "/Munch-Mate-Frontend-Project-/static/js/main.9209871a.js",
+    "main.js": "/Munch-Mate-Frontend-Project-/static/js/main.abe52a8f.js",
     "static/js/453.8badd8e2.chunk.js": "/Munch-Mate-Frontend-Project-/static/js/453.8badd8e2.chunk.js",
     "static/media/header_img.png": "/Munch-Mate-Frontend-Project-/static/media/header_img.87c84a24f79531681564.png",
     "static/media/food_4.png": "/Munch-Mate-Frontend-Project-/static/media/food_4.49c25dfbf26ca41b7c88.png",
@@ -46,11 +46,11 @@
     "static/media/menu_4.png": "/Munch-Mate-Frontend-Project-/static/media/menu_4.954b7fb395c46eda438f.png",
     "index.html": "/Munch-Mate-Frontend-Project-/index.html",
     "main.03e59bcb.css.map": "/Munch-Mate-Frontend-Project-/static/css/main.03e59bcb.css.map",
-    "main.9209871a.js.map": "/Munch-Mate-Frontend-Project-/static/js/main.9209871a.js.map",
+    "main.abe52a8f.js.map": "/Munch-Mate-Frontend-Project-/static/js/main.abe52a8f.js.map",
     "453.8badd8e2.chunk.js.map": "/Munch-Mate-Frontend-Project-/static/js/453.8badd8e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03e59bcb.css",
-    "static/js/main.9209871a.js"
+    "static/js/main.abe52a8f.js"
   ]
 }
