@@ -46,4 +46,5 @@ To run the MunchMate project locally, follow these steps:
 
 **Contributing**
 
-      Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+   Contributions are welcome! If you have suggestions for improvements or new features, 
+      feel free to open an issue or submit a pull request.
