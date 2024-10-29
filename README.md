@@ -30,14 +30,14 @@ To run the MunchMate project locally, follow these steps:
 
 2. **Navigate to the Project Directory:**
    
-  cd Munch-Mate-Frontend-Project
+     cd Munch-Mate-Frontend-Project
 
 3. **Install Dependencies:** Make sure you have Node.js installed. Run the following command to install the necessary packages:
 
-  npm install
+     npm install
 
 4. **Start the Development Server: Launch the application using:**
 
-  npm start
+     npm start
 
 **The app should open in your default web browser at** http://localhost:3000.
