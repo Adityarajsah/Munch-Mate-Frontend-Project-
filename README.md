@@ -41,3 +41,9 @@ To run the MunchMate project locally, follow these steps:
      npm start
 
 **The app should open in your default web browser at** http://localhost:3000.
+
+***
+
+**Contributing**
+
+      Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
