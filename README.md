@@ -19,6 +19,7 @@ Experience MunchMate in action! Visit the live application here: [MunchMate Live
 - React JS
 - HTML
 - CSS
+- JavaScript
 
 ## Installation and Setup
 
